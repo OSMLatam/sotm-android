@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="map_options">
+        <item>Mário de Andrade Library</item>
+        <item>Mobilab</item>
+    </string-array>
+    <string-array name="program_values">
+        <item>Choose date...</item>
+        <item>2016-11-25</item>
+        <item>2016-11-26</item>
+        <item>2016-11-27</item>
+    </string-array>
+</resources>

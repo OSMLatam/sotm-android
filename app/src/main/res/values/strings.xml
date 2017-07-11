@@ -1,0 +1,70 @@
+<resources>
+    <string name="about">"SotMLatam is an app that displays the main content of the event State of the Map Latam 2016, Brassil.
+
+"</string>
+    <string name="about_content">"State of the Map Latam is the annual conference for all mappers and OpenStreetMap users in Latin America. The first edition was held in Santiago de Chile in September, 2015. The 2016 edition will be in São Paulo (Brazil), from 25 to 27th November. Our program includes talks, panels, workshops and mapathons about the most diverse subjects related to the OpenStreetMap world.
+
+As well as OSM mappers, we will have attendees from Open Data communities, students, geoinformation professionals, companies, public institutions, etc."</string>
+    <string name="about_content2">Our conference has a</string>
+    <string name="about_content3">Code of Conduct</string>
+    <string name="about_title">About the event</string>
+    <string name="access_token">sk.eyJ1IjoibGJhcnJvc29wIiwiYSI6ImNpc3Z4aGFwcTAydHMyenBneXJlamNvNXQifQ.9OceeurZ8vVs66dRUhKdvg</string>
+    <string name="action_about">About</string>
+    <string name="action_our_event">Our event</string>
+    <string name="action_twitter">Twitter</string>
+    <string name="app_name">SotMLatam</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="close">Close</string>
+    <string name="code_conduct1">All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.</string>
+    <string name="code_conduct2">Need Help?</string>
+    <string name="code_conduct3">Contact one of the organizers at the conference or write us: info@osmlatam.org</string>
+    <string name="code_conduct4">The Quick Version</string>
+    <string name="code_conduct5">Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference <em>without a refund</em> at the discretion of the conference organisers.</string>
+    <string name="code_conduct6">The Less Quick Version</string>
+    <string name="code_conduct7">"Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+
+    Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+
+
+    If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+
+
+    If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded t-shirts.
+
+
+    Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+
+We expect participants to follow these rules at conference and workshop venues and conference-related social events."</string>
+    <string name="code_conduct_title">Code of Conduct</string>
+    <string name="help_menu">Help</string>
+    <string name="help_text1">About Program:</string>
+    <string name="help_text2">"The program part on the app display the nearest conference on the current day, that way the user don't have to scroll down looking for the next conference that's going to happen on the event."</string>
+    <string name="help_text3">About Venue:</string>
+    <string name="help_text4">The Venue part on the app display the user location if available and can create routes from the user location to the desire place. The desire place can be Mário de Andrade Library or Mobilab. In order to display the map you need to have internet connection on the phone</string>
+    <string name="information">Information</string>
+    <string name="information2">We have being unable to fetch your location, please make a long click where you are located on the map to create the starter point for the route.</string>
+    <string name="library">Library Mario de Andrade</string>
+    <string name="library_desc" translatable="false">The first two days of the SotM Latam will be held at Mário de Andrade Library, a public facility in downtown São Paulo, located in a place with good accommodation options and easy access to public transportation. The nearest subway stations are Anhangabaú and República</string>
+    <string name="map_dialog_title" translatable="false">Select the location</string>
+    <string name="mobilab" translatable="false">Mobilab</string>
+    <string name="mobilab_desc" translatable="false">On the last day, we will have a mapathon at Mobilab, a urban mobility laboratory maintained by the Prefecture of São Paulo, also in downtown. The closest station is São Bento.</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="notification_text">5 min. for your favorite conference:</string>
+    <string name="okbutton">OK</string>
+    <string name="program">Program</string>
+    <string name="route_wait">Fetching the route...</string>
+    <string name="sotm_date">NOVEMBER 25-27</string>
+    <string name="sotm_title">THE LATINAMERICAN</string>
+    <string name="sotm_title2">OPENSTREETMAP CONFERENCE</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="twitter_error">Sorry, something went wrong with the connection :(</string>
+    <string name="twitter_load">Loading...</string>
+    <string name="ups_error">Ups! something went wrong with the connection</string>
+    <string name="venue">Venue</string>
+</resources>

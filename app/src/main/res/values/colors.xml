@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="black_transparent">#ffcecece</color>
+    <color name="blue_dark">#ff00537f</color>
+    <color name="brown">#ffa58771</color>
+    <color name="colorAccent">#ff56ab2b</color>
+    <color name="colorPrimary">#ff444545</color>
+    <color name="colorPrimaryDark">#ff1e1e1e</color>
+    <color name="gray_camara">#ff808080</color>
+    <color name="oblue">#ff35b6ef</color>
+    <color name="obrow">#ffa58771</color>
+    <color name="ogreen">#ff96e185</color>
+    <color name="omagenta">#ff3eab9f</color>
+    <color name="opurple">#ffabb9ed</color>
+    <color name="orange_dark">#ffe64a19</color>
+    <color name="oyellow">#ffdfb22a</color>
+    <color name="transparency">#80000000</color>
+    <color name="white">#fff9f9f9</color>
+</resources>
